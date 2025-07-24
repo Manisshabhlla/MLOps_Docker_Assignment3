@@ -1,0 +1,5 @@
+echo "__pycache__/" >> .gitignore
+echo "venv/" >> .gitignore
+echo "model.joblib" >> .gitignore
+echo "unquant_params.joblib" >> .gitignore
+echo "quant_params.joblib" >> .gitignore
