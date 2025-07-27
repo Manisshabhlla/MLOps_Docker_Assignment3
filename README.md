@@ -37,6 +37,10 @@ We:
 - `.github/workflows/ci.yml` → GitHub Actions automation
 - `requirements.txt` → list of required Python packages
 
+## 🔗 Important Links
+
+- DockerHub Image: *https://hub.docker.com/repository/docker/manissha/mlops-assignment3/general*
+
 ## 📊 Final Model Comparison Table
 
 | Metric       | Original Sklearn Model (`model.joblib`) | Quantized Model (`quant_params.joblib`) |
