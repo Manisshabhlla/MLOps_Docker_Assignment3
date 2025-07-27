@@ -38,7 +38,9 @@ We:
 - `requirements.txt` → list of required Python packages
 
 ## 📊 Final Model Comparison Table
- | **Metric**      | 	**Original Model (model.joblib)**  |	**Quantized Model (quant_params.joblib)** |
- | R² Score	       |  0.6012	                           |     0.1657                                 |
- | Model Size      |	414 Bytes                          |	   469 Bytes                              |
+
+| Metric       | Original Model (`model.joblib`) | Quantized Model (`quant_params.joblib`) |
+|--------------|----------------------------------|------------------------------------------|
+| R² Score     | 0.6012                           | 0.1657                                   |
+| Model Size   | 414 Bytes                        | 469 Bytes                                |
 
